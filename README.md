@@ -41,8 +41,21 @@ I am a frontend developer from India 🇮🇳 I am working as a Consultant at [S
 
 <hr />
 
+<!--
+### Stats
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralsingh108)](https://github.com/aviralsingh108/github-readme-stats)
+-->
+
 ## Visitor count
 <img src="https://profile-counter.glitch.me/aviralsingh108/count.svg" />
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ4djU2MzUyaGJoeDgyNnljNGt6YXVhN2N0NXBsbnBuN3JlNWp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLzbV3d8uaRH57Y4lN/giphy.gif">
+</p>
+
 <!--
 **aviralsingh108/aviralsingh108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
