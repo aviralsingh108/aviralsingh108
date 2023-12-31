@@ -39,6 +39,10 @@ I am a frontend developer from India 🇮🇳 I am working as a Consultant at [S
 
 <a href="https://www.buymeacoffee.com/aviral108" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
+<hr />
+
+## Visitor count
+<img src="https://profile-counter.glitch.me/aviralsingh108/count.svg" />
 <!--
 **aviralsingh108/aviralsingh108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
