@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @aviral108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviral108)](https://holopin.io/@aviral108)
+
 ## Hello👋 I'm Aviral 👩🏻‍💻
 
 I am a fullstack developer from India 🇮🇳 I am working as a Consultant at [Sony](https://www.sonyindiasoftware.co.in//)
@@ -52,5 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![An image of @aviral108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviral108)](https://holopin.io/@aviral108)
